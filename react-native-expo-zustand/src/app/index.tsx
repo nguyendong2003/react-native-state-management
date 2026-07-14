@@ -95,7 +95,7 @@ export default function HomeScreen() {
 
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.header}>
-          <Text style={styles.headerTitle}>TODO APP WITH REDUX</Text>
+          <Text style={styles.headerTitle}>TODO APP WITH ZUSTAND</Text>
         </View>
 
         <Animated.View style={[styles.contentContainer, contentAnimatedStyle]}>
@@ -109,7 +109,7 @@ export default function HomeScreen() {
           </KeyboardAvoidingView>
         </Animated.View>
 
-        <Text style={styles.footer}>Redux Toolkit State Management</Text>
+        <Text style={styles.footer}>Zustand State Management</Text>
       </SafeAreaView>
     </View>
   );
