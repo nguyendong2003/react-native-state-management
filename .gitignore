@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# Expo / build outputs
+.expo/
+dist/
+web-build/
+
+# IDE / System
+.DS_Store
+.vscode/
+
+# Local / secrets
+.env*.local
+*.pem
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
