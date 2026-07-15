@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-expo-redux",
-    "slug": "react-native-expo-redux",
+    "name": "react-native-expo-zustand",
+    "slug": "react-native-expo-zustand",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnativeexporedux",
+    "scheme": "reactnativeexpozustand",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
